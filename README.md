@@ -1,2 +1,3 @@
-# Aula-26-02-2021-PC1
-Aula do dia 26-02-2021
+Exercicio ```Nome Completo```
+
+Receba o nome e o sobrenome do usuário separadamente. Exiba o nome completo no formato padrão Nome Sobrenome e no formato de catálogo SOBRENOME, Nome.
